@@ -1,4 +1,4 @@
-var url= 'https://mighty-oranges-trade.loca.lt';
+var url= 'https://prlaravel-production.up.railway.app';
 window.addEventListener("load", function () {
 	$('.btn-like').css('cursor', 'pointer');
 	$('.btn-dislike').css('cursor', 'pointer');
